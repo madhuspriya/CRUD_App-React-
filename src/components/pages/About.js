@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='container'>
     <div className="py-4">
-    <h1> Home</h1>
+    <h1>About</h1>
     <p className="main-content">
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
